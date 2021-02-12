@@ -1,0 +1,16 @@
+exercicio 1)
+
+Algoritmo "Subtração"
+var
+    N1, N2, SUB: real
+Inicio
+    leia N1, N2
+    SUB <- N1 - N2
+    escreva SUB
+Fim
+
+exercicio 2)
+
+Algortimo "Divisão"
+var
+    N1, N2
